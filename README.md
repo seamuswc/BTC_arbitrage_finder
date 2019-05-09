@@ -2,14 +2,14 @@
 
 `ruby index.rb`
 
-currently finds largest arbitrage oppurtunity between: 
+currently finds largest arbitrage opportunity between: 
  `Binance`
  `Huobi`
  `Bitfinex`
  `Digifinex`
  
- `Digifinex.rb` needs a public apikey to be add to work.
+ `Digifinex.rb` needs a public apikey to be added inorder to work.
  
- Searches  the common `BTC / Crypto` pairings
+ Searches the common `BTC / Crypto` pairings
  
- To reduce to exchange scope edit the `@exchanges` array in the `main.rb` `initialize` method
+ To reduce the exchange scope edit the `@exchanges` array in the `main.rb` `initialize` method
